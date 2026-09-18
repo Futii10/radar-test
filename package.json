@@ -3,7 +3,5 @@
   "version": "0.1.0",
   "engines": {
     "node": ">=20"
-  },
-  "devDependencies": {
-    "radar-map-target": "git+https://github.com/pallets/flask.git"
-  }}
+  }
+}
